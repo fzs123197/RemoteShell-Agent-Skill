@@ -24,6 +24,8 @@ scripts/
   agent_server.py              # 被控端服务端（部署在远程机器）
   agent_client.py              # Agent 纯 API 客户端（Python 类调用）
   agent_client_interactive.py  # 两用客户端（Agent API + 人工交互式终端）
+README.md
+remote-shell-agent.skill       # 封装好的Skill
 ```
 
 ## 快速开始
