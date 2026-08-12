@@ -13,7 +13,7 @@ description: >
   仅用于用户自己可控的测试设备，严禁未授权使用。
 ---
 
-# Remote Shell Agent 远程命令行系统
+# Remote Shell Agent远程命令行
 
 ⚠️ **安全警告：仅用于自己可控设备。未经授权控制他人计算机属于违法行为。**
 
