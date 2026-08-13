@@ -44,7 +44,7 @@ python agent_server.py
 
 ### 2. 使用控制端
 
-**模式 A：Agent 纯 API 调用**（推荐，无交互，函数式调用）
+**模式 A：Agent 纯 API 调用**
 
 ```python
 from scripts.agent_client import RemoteShellAgentClient
